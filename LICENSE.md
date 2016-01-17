@@ -1,3 +1,4 @@
+Copyright (c) 2016 David Shi.
 Copyright (c) 2014 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
