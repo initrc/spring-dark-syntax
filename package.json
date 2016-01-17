@@ -2,10 +2,10 @@
   "name": "spring-dark-syntax",
   "theme": "syntax",
   "version": "0.0.2",
-  "description": "A dark syntax theme",
+  "description": "A dark syntax theme with vivid colors",
   "keywords": [
     "dark",
-    "blue",
+    "vivid",
     "syntax"
   ],
   "repository": "https://github.com/initrc/spring-dark-syntax",
